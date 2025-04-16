@@ -1,2 +1,4 @@
-package patterns;public class SlidingWindow {
+package patterns;
+
+public class SlidingWindow {
 }

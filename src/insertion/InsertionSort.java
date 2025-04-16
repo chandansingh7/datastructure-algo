@@ -1,4 +1,6 @@
-package sorting.insertion;
+package insertion;
+
+import java.util.Arrays;
 
 public class InsertionSort {
 
@@ -17,6 +19,6 @@ public class InsertionSort {
     }
 
     public static void main(String[] args) {
-        System.out.println(sort(new int[]{1, 2, 3, 45, 6}));
+        Arrays.stream(sort(new int[]{1, 2, 3, 45, 6})).forEach(x -> System.out.println(x));
     }
 }

@@ -1,4 +1,4 @@
-package DSA.linklist;
+package linklist;
 
 public class Node {
 

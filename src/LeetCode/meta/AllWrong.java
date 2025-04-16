@@ -1,4 +1,4 @@
-package meta;
+package LeetCode.meta;
 
 public class AllWrong {
 

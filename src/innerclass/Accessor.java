@@ -1,4 +1,4 @@
-package javafpp.innerclass;
+package innerclass;
 
 public class Accessor {
 

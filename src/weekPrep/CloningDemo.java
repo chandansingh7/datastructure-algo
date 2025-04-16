@@ -1,4 +1,4 @@
-//package weekPrep;
+package weekPrep;//package weekPrep;
 //
 //class Person implements Cloneable {
 //    private String name;

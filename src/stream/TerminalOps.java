@@ -20,7 +20,7 @@ public class TerminalOps {
         list.stream().skip(1).toList();
 
         //2.foreach
-        list.stream().forEach(x -> System.out.println(x));
+        list.forEach(System.out::println);
 
         //3. reduce : combines elements to produce a single result
         Optional<Integer> optionalInteger = list.stream().reduce(Integer::sum);
