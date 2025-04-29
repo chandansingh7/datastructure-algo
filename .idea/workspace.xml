@@ -5,25 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fe2b1d-159b-459a-99dd-3afb8140e1e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/singlton/SingletonImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singlton/SingletonInst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/automic/string/StringMainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/MyThreadSetDemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/Reentrant/ReentrantExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/locks/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/locks/TestingMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/readwritelock/ReadWriteCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/readwritelock/ReadWriteLockExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/syncronize/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/syncronize/MySyncThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/thread/syncronize/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/meta/AllWrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/meta/AllWrong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/meta/ContainsDuplicate217.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/meta/ContainsDuplicate217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeetCode/meta/SumOfTwoIntegers371.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeetCode/meta/SumOfTwoIntegers371.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/datastructure/HashSetImpli.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/HashSetImpli.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerclass/Accessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerclass/Accessor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/innerclass/InnerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/innerclass/InnerClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/insertion/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/insertion/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/stack/MyStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacore/stack/StackImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacore/stack/StackImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/Implimenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/Implimenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/LinkList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linklist/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linklist/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns/SlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/SlidingWindow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patterns/slidingwindow/LongestSubstringLength3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/patterns/slidingwindow/LongestSubstringLength3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/TerminalOps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/TerminalOps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/weekPrep/CloningDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/weekPrep/CloningDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +62,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSetImpli">
+  <component name="RunManager" selected="Application.StringMainTest">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -100,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.meta.ContainsDuplicate217" />
+    <configuration name="MyThreadSetDemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.thread.MyThreadSetDemon" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.meta.*" />
+          <option name="PATTERN" value="javacore.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetImpli" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructure.HashSetImpli" />
+    <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.thread.Reentrant.ReentrantExample" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructure.*" />
+          <option name="PATTERN" value="javacore.thread.Reentrant.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="insertion.InsertionSort" />
+    <configuration name="StringMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.automic.string.StringMainTest" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="insertion.*" />
+          <option name="PATTERN" value="javacore.automic.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.stack.StackImpl" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.thread.syncronize.Test" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.stack.*" />
+          <option name="PATTERN" value="javacore.thread.syncronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfTwoIntegers371" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.meta.SumOfTwoIntegers371" />
+    <configuration name="TestingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.thread.locks.TestingMain" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="LeetCode.meta.*" />
+          <option name="PATTERN" value="javacore.thread.locks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSetImpli" />
-        <item itemvalue="Application.StackImpl" />
-        <item itemvalue="Application.SumOfTwoIntegers371" />
-        <item itemvalue="Application.ContainsDuplicate217" />
-        <item itemvalue="Application.InsertionSort" />
+        <item itemvalue="Application.StringMainTest" />
+        <item itemvalue="Application.ReentrantExample" />
+        <item itemvalue="Application.TestingMain" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MyThreadSetDemon" />
       </list>
     </recent_temporary>
   </component>
@@ -188,6 +181,10 @@
       <workItem from="1743785901940" duration="2254000" />
       <workItem from="1744166042503" duration="785000" />
       <workItem from="1744662471140" duration="2044000" />
+      <workItem from="1744768544119" duration="443000" />
+      <workItem from="1745510308126" duration="7212000" />
+      <workItem from="1745560227420" duration="453000" />
+      <workItem from="1745889448848" duration="2972000" />
     </task>
     <servers />
   </component>
