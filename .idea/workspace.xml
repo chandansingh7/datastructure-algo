@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fe2b1d-159b-459a-99dd-3afb8140e1e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oop/Department.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oop/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream/practice/BeginnerLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream/practice/BeginnerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/practice/BeginnerLevel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestClass">
+  <component name="RunManager" selected="Application.BeginnerLevel">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -86,6 +83,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BeginnerLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream.practice.BeginnerLevel" />
+      <module name="datastructure-algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stream.practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javacore.thread.Reentrant.ReentrantExample" />
       <module name="datastructure-algo" />
@@ -105,19 +115,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="javacore.automic.string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.thread.syncronize.Test" />
-      <module name="datastructure-algo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javacore.thread.syncronize.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -153,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BeginnerLevel" />
         <item itemvalue="Application.TestClass" />
         <item itemvalue="Application.StringMainTest" />
         <item itemvalue="Application.ReentrantExample" />
         <item itemvalue="Application.TestingMain" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -179,12 +176,23 @@
       <workItem from="1745560227420" duration="453000" />
       <workItem from="1745889448848" duration="2972000" />
       <workItem from="1745951550093" duration="2397000" />
-      <workItem from="1746028661422" duration="9646000" />
+      <workItem from="1746028661422" duration="20641000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
