@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76fe2b1d-159b-459a-99dd-3afb8140e1e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/javacore/innerclass/AnonymousInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/innerclass/LocalInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/innerclass/MemberInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/innerclass/StaticNested.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/patterns/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javacore/patterns/TestSingeton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/practice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream/practice/IntermediateLevel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stream/practice/BeginnerLevel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream/practice/BeginnerLevel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +59,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BeginnerLevel">
+  <component name="RunManager" selected="Application.AnonymousInner">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
       <option name="appServicePlanName" />
@@ -83,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BeginnerLevel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream.practice.BeginnerLevel" />
+    <configuration name="AnonymousInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.innerclass.AnonymousInner" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stream.practice.*" />
+          <option name="PATTERN" value="javacore.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReentrantExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.thread.Reentrant.ReentrantExample" />
+    <configuration name="LocalInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.innerclass.LocalInner" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.thread.Reentrant.*" />
+          <option name="PATTERN" value="javacore.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringMainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.automic.string.StringMainTest" />
+    <configuration name="MemberInner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.innerclass.MemberInner" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.automic.string.*" />
+          <option name="PATTERN" value="javacore.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oop.TestClass" />
+    <configuration name="StaticNested" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.innerclass.StaticNested" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oop.*" />
+          <option name="PATTERN" value="javacore.innerclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestingMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacore.thread.locks.TestingMain" />
+    <configuration name="TestSingeton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacore.patterns.TestSingeton" />
       <module name="datastructure-algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacore.thread.locks.*" />
+          <option name="PATTERN" value="javacore.patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BeginnerLevel" />
-        <item itemvalue="Application.TestClass" />
-        <item itemvalue="Application.StringMainTest" />
-        <item itemvalue="Application.ReentrantExample" />
-        <item itemvalue="Application.TestingMain" />
+        <item itemvalue="Application.AnonymousInner" />
+        <item itemvalue="Application.LocalInner" />
+        <item itemvalue="Application.StaticNested" />
+        <item itemvalue="Application.MemberInner" />
+        <item itemvalue="Application.TestSingeton" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +183,8 @@
       <workItem from="1745560227420" duration="453000" />
       <workItem from="1745889448848" duration="2972000" />
       <workItem from="1745951550093" duration="2397000" />
-      <workItem from="1746028661422" duration="20641000" />
+      <workItem from="1746028661422" duration="23244000" />
+      <workItem from="1746397116814" duration="3978000" />
     </task>
     <servers />
   </component>
